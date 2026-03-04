@@ -44,12 +44,6 @@ I combine **AI workflows + modern full-stack development** to move from raw busi
 
 ---
 
-## 📌 Featured Project
-
-### 🦷 Regen Skin & Hair Clinic  
-**Premium dermatology platform with automated appointment booking**
-
-🔗 Live Demo: https://your-vercel-link-here.vercel.app/  
 
 **Highlights:**
 - Authority-driven UI
